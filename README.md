@@ -1,7 +1,7 @@
 # D.E.M.O
 # FR
 
-D.E.M.O est mon bot discord privé qui gère mon serveur ^^
+D.E.M.O est mon bot discord privé qui gère mon serveur discord ^^
 
 N'hésite pas à [rejoindre mon discord](https://discord.gg/BT75zBCwCs) pour être au courant de mes actualités ^^
 
